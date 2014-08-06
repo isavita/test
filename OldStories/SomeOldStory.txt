@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is not very new (hmmm) story.
 This is from old stories branch.
+=======
+This is not very new story (offf).
+This is from my master.
+>>>>>>> 45955397fb525a89a028b1fe2acc7ce7e626f1b2
